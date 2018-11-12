@@ -1,12 +1,12 @@
-#CycleGan
+<h1>CycleGan</h1>
 
-####Model Presentation
+<h3>Model Presentation</h3>
 
 CycleGan is a style transfer model, it makes image to image translation trainnig on unpaired data.
 Paper: https://arxiv.org/abs/1703.10593
 Used Implementation: https://github.com/junyanz/CycleGAN/blob/master
 
-##Results:
+<h3>Results</h3>:
 
 ####Phase 1: 
 Test with full datatset of 5000 pictures of nude girls extracted from pornhub and 5000 pictures of dressed girls extracted from instagram
