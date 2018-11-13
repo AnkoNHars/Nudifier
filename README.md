@@ -3,7 +3,7 @@ Undress people with Adversarial Networks
 
 ## Genesis of this project
 
-LOREM
+### We wanted to see girls naked
 
 ## CycleGan
 
